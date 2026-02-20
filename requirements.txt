@@ -1,0 +1,16 @@
+torch
+torchvision
+transformers
+accelerate
+bitsandbytes
+qwen-vl-utils
+opencv-python-headless
+decord
+moviepy
+Pillow
+numpy
+gradio
+fpdf
+datetime
+nest_asyncio
+python-dotenv
